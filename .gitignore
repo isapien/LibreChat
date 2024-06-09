@@ -104,3 +104,6 @@ uploads/
 
 # owner
 release/
+.flaskenv*
+!.env.project
+!.env.vault
